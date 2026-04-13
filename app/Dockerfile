@@ -1,4 +1,5 @@
-
+=======
+>>>>>>> 0a37273 (auto deploy test)
 FROM python:3.9
 
 WORKDIR /app
